@@ -1,0 +1,26 @@
+_repo: Senate-Resolution-6--41st-Congress-1st-Sessiondepartments-and-for-other-purposes_27078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Congress. Senate
+    gutenberg_agent_id: '32446'
+    url: http://www.gutenberg.org/2009/agents/32446
+description: ''
+gutenberg_issued: '2008-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Bills, Legislative -- United States'
+- !lcsh 'Legislation -- United States'
+title: "Senate Resolution 6; 41st Congress, 1st Session\r\nA Bill to provide stationery\
+  \ for Congress and the several departments, and for other purposes"
+url: http://www.gutenberg.org/ebooks/27078

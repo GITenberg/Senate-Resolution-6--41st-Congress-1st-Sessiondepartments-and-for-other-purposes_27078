@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32446'
     url: http://www.gutenberg.org/2009/agents/32446
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27078#Senate-Resolution-6--41st-Congress-1st-Sessiondepartments-and-for-other-purposes
 gutenberg_issued: '2008-10-28'
 gutenberg_type: Text
 identifiers:
